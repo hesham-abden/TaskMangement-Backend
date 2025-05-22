@@ -1,2 +1,2 @@
-# Ticketing System Project
-## Clean Architecure using Asp.Net Core
+# Task Management Project
+## Clean Architecure using .NET 8
